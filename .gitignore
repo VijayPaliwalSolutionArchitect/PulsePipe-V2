@@ -1,0 +1,12 @@
+# PulsePipe V2 Git Ignore
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.db
+*.sqlite3
+node_modules/
+dist/
+.DS_Store
+*.log

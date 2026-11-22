@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-11-22T22:44:54Z",
+  "personalization_relevance": 100.0,
+  "intent_accuracy": 100.0,
+  "compliance_rate": 100.0,
+  "cross_tenant_leaks": 0,
+  "status": "PASSED [READY TO SHIP]",
+  "duration_sec": 0.011
+}
